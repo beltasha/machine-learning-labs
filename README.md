@@ -10,3 +10,8 @@ Lab №2 Decision tree
 
 To run:
 1. python lab2.py
+
+Lab №3 Methods of discriminant analysis
+
+To run:
+1. python lab3.py
